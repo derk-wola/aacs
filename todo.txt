@@ -1,0 +1,2 @@
+[] - Adicionar email -> geralaacomputadorseguro28@gmail.com
+<a class="email" href="mailto:geralaacomputadorseguro28@gmail.com">Fale conosco</a>
